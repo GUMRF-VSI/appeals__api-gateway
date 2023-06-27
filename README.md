@@ -1,2 +1,2 @@
-# appeals-api-gateway
+# API Gateway
 Конфигурации nginx в качестве API Gateway.
